@@ -10,6 +10,7 @@ Final project for the course 'Linux Server Configuration'.
 - Notes to Reviewer
 
 ## Demo
+- Click [here]('http://testtestest.com') to view the application
 
 ## Dependencies
 
