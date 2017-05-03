@@ -10,27 +10,14 @@ Final project for the course 'Linux Server Configuration'.
 - Notes to Reviewer
 
 ## Demo
-- Click [here]('http://testtestest.com') to view the application
+- Click [here]('http://testtestest.com') to view application
 
 ## Dependencies
 
-## Accessing the Application
+## Server Details
 
-- Create `.ssh` folder in home directory
-```
-cd ~/
-mkdir .ssh
-```
-
-- Create a file and insert strings from `Notes to Reviewer` section
-```
-sudo vim ~/.ssh/lightsail
-```
-
-- Open terminal, and gain entry to server
-```
-ssh grader@<address> -p 2200 -i ~/.ssh/<private_key_name>
-```
+- IP Address: <Write IP Address Here>
+- Port: 2200
 
 ## Summary of Configuration Changes
 
