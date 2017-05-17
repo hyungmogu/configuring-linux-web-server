@@ -3,6 +3,7 @@ Final project for the course 'Linux Server Configuration'.
 
 ## Table of Contents
 - Dependencies
+- Server Details
 - Accessing the Application
 - Summary of Configuration Changes
 - References 
