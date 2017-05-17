@@ -2,14 +2,10 @@
 Final project for the course 'Linux Server Configuration'.
 
 ## Table of Contents
-- Demo
 - Dependencies
 - Accessing the Application
 - Summary of Configuration Changes
 - References 
-
-## Demo
-- Click [here]('http://item-catalog.hyungmogu.ca') to view application
 
 ## Dependencies
 ### Packages
