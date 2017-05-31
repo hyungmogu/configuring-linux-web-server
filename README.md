@@ -2,9 +2,9 @@
 
 Note: This is Udacity evaluated assignment.
 
-This is a final project for the course `Linux Server Configuration`. Here, I am tasked with the challenges of securely setting up linux server in Amazon Lightsail and deploy flask application. As a result, I created new sudo user, blocked the access of default sudo user, changed ssh port, and setup apache2 virtual server and accept any requests under the recepient name of "http://item-catalog.hyungmogu.ca" with ip address "54.166.228.141". More detailed summary of changes and implementation is provided below. 
+This is a final project for the course `Linux Server Configuration`. Here, I am tasked with the challenges of securely setting up linux server in Amazon Lightsail and deploy flask application. As a result, new sudo user is created, the access of default sudo user is blocked, ssh port is changed, and apache2 virtual server is setup and configured to accept any requests under the recepient name of "http://item-catalog.hyungmogu.ca" with ip address "54.166.228.141". More detailed summary of changes and implementation is provided below. 
 
-The project I've used to deploy the application can be found here: https://github.com/hyungmogu/item-catalogue. 
+The project used for the deployment can be found here: https://github.com/hyungmogu/item-catalogue. 
 
 ## Table of Contents
 - Dependencies
