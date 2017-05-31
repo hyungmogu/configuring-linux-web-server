@@ -1,5 +1,10 @@
-# udacity-configuring-linux-web-server
-Final project for the course 'Linux Server Configuration'.
+# Udacity FSND 7th Project: Linux Server Configuration
+
+Note: This is Udacity evaluated assignment.
+
+This is a final project for the course `Linux Server Configuration`. Here, I am tasked with the challenges of securely setting up linux server in Amazon Lightsail and deploy flask application. As a result, I created new sudo user, blocked the access of default sudo user, changed ssh port, and setup apache2 virtual server and accept any requests under the recepient name of "http://item-catalog.hyungmogu.ca" with ip address "54.166.228.141". More detailed summary of changes and implementation is provided below. 
+
+The project I've used to deploy the application can be found here: https://github.com/hyungmogu/item-catalogue. 
 
 ## Table of Contents
 - Dependencies
